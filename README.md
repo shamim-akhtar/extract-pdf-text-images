@@ -1,8 +1,14 @@
 # Extract Text and Images from a PDF File
 
 ## Code Explanation
-The code is a Python script (Jupyter Notebook) that extracts text and images from a PDF file. It imports three libraries: fitz, os, and PyPDF2. It then sets the input and output paths, opens the PDF file and reads it using PyPDF2, and extracts the text from the first page of the PDF. The extracted text is saved to a file in the specified output folder. The script then opens the PDF file again using fitz, gets a list of images on the first page of the PDF, saves each image to a file in the specified output folder, and prints the number of images detected on the first page of the PDF.
-To use the code, you must replace the input_path variable with the PDF file path you want to extract text and images. You should also set the output_path variable to the folder where you want the output files to be saved. After running the Python script, it will extract the text and images from the PDF and save them to files in the specified output folder.
+The code is a Python script (Jupyter Notebook) that extracts text and images from a PDF file. It imports three libraries: 
+* fitz, 
+* os, and 
+* PyPDF2. 
+
+It then sets the input and output paths, opens the PDF file and reads it using PyPDF2, and extracts the text from the first page of the PDF. The extracted text is saved to a file in the specified output folder. The script then opens the PDF file again using fitz, gets a list of images on the first page of the PDF, saves each image to a file in the specified output folder, and prints the number of images detected on the first page of the PDF.
+
+To use the code, you must replace the **input_path** variable with the PDF file path you want to extract text and images. You should also set the **output_path** variable to the folder where you want the output files to be saved. After running the Python script, it will extract the text and images from the PDF and save them to files in the specified output folder.
 
 ## Usage Instructions
 ### To use the code, follow these instructions:
