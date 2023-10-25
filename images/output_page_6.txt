@@ -1,0 +1,97 @@
+7
+Conroy, C., Bonaca, A., Cargile, P., et al. 2019, ApJ, 883,
+107, doi: 10.3847/1538-4357/ab38b8
+Cooper, A. P., Cole, S., Frenk, C. S., et al. 2010, MNRAS,
+406, 744, doi: 10.1111/j.1365-2966.2010.16740.x
+Davis, M., Efstathiou, G., Frenk, C. S., & White, S. D. M.
+1985, ApJ, 292, 371, doi: 10.1086/163168
+Debattista, V. P., Moore, B., Quinn, T., et al. 2008, ApJ,
+681, 1076, doi: 10.1086/587977
+Dubinski, J., & Carlberg, R. G. 1991, ApJ, 378, 496,
+doi: 10.1086/170451
+Duffy, A. R., Schaye, J., Kay, S. T., et al. 2010, MNRAS,
+405, 2161, doi: 10.1111/j.1365-2966.2010.16613.x
+Emami, R., Genel, S., Hernquist, L., et al. 2021, ApJ, 913,
+36, doi: 10.3847/1538-4357/abf147
+Frankel, N., Sanders, J., Rix, H.-W., Ting, Y.-S., & Ness,
+M. 2019, ApJ, 884, 99, doi: 10.3847/1538-4357/ab4254
+Frenk, C. S., White, S. D. M., Davis, M., & Efstathiou, G.
+1988, ApJ, 327, 507, doi: 10.1086/166213
+Frenk, C. S., White, S. D. M., Efstathiou, G., & Davis, M.
+1985, Nature, 317, 595, doi: 10.1038/317595a0
+Gaia Collaboration, Brown, A. G. A., Vallenari, A., et al.
+2018, A&A, 616, A1, doi: 10.1051/0004-6361/201833051
+Gnedin, O. Y., Kravtsov, A. V., Klypin, A. A., & Nagai, D.
+2004, ApJ, 616, 16, doi: 10.1086/424914
+Grabelsky, D. A., Cohen, R. S., Bronfman, L., Thaddeus,
+P., & May, J. 1987, ApJ, 315, 122, doi: 10.1086/165118
+Grand, R. J. J., G´ omez, F. A., Marinacci, F., et al. 2017,
+MNRAS, 467, 179, doi: 10.1093/mnras/stx071
+Gustafsson, M., Fairbairn, M., & Sommer-Larsen, J. 2006,
+PhRvD, 74, 123522, doi: 10.1103/PhysRevD.74.123522
+Han, J. J., Conroy, C., Johnson, B. D., et al. 2022a, AJ,
+164, 249, doi: 10.3847/1538-3881/ac97e9
+Han, J. J., Naidu, R. P., Conroy, C., et al. 2022b, ApJ, 934,
+14, doi: 10.3847/1538-4357/ac795f
+Helmi, A., Babusiaux, C., Koppelman, H. H., et al. 2018,
+Nature, 563, 85, doi: 10.1038/s41586-018-0625-x
+Iorio, G., & Belokurov, V. 2019, MNRAS, 482, 3868,
+doi: 10.1093/mnras/sty2806
+Kazantzidis, S., Kravtsov, A. V., Zentner, A. R., et al.
+2004, ApJL, 611, L73, doi: 10.1086/423992
+Kerr, F. J. 1957, AJ, 62, 93, doi: 10.1086/107466
+Levine, E. S., Blitz, L., & Heiles, C. 2006, ApJ, 643, 881,
+doi: 10.1086/503091
+Marinacci, F., Vogelsberger, M., Pakmor, R., et al. 2018,
+MNRAS, 480, 5113, doi: 10.1093/mnras/sty2206
+Moore, B., Kazantzidis, S., Diemand, J., & Stadel, J. 2004,
+MNRAS, 354, 522, doi: 10.1111/j.1365-2966.2004.08211.x
+Naiman, J. P., Pillepich, A., Springel, V., et al. 2018,
+MNRAS, 477, 1206, doi: 10.1093/mnras/sty618
+Navarro, J. F., Frenk, C. S., & White, S. D. M. 1997, ApJ,
+490, 493, doi: 10.1086/304888Nelson, D., Pillepich, A., Springel, V., et al. 2018, MNRAS,
+475, 624, doi: 10.1093/mnras/stx3040
+Nelson, D., Springel, V., Pillepich, A., et al. 2019a,
+Computational Astrophysics and Cosmology, 6, 2,
+doi: 10.1186/s40668-019-0028-x
+Nelson, D., Pillepich, A., Springel, V., et al. 2019b,
+MNRAS, 490, 3234, doi: 10.1093/mnras/stz2306
+Orkney, M. D. A., Laporte, C. F. P., Grand, R. J. J., et al.
+2023, arXiv e-prints, arXiv:2303.02147,
+doi: 10.48550/arXiv.2303.02147
+Perryman, M., Spergel, D. N., & Lindegren, L. 2014, ApJ,
+789, 166, doi: 10.1088/0004-637X/789/2/166
+Pillepich, A., Springel, V., Nelson, D., et al. 2018a,
+MNRAS, 473, 4077, doi: 10.1093/mnras/stx2656
+Pillepich, A., Nelson, D., Hernquist, L., et al. 2018b,
+MNRAS, 475, 648, doi: 10.1093/mnras/stx3112
+Pillepich, A., Nelson, D., Springel, V., et al. 2019, MNRAS,
+490, 3196, doi: 10.1093/mnras/stz2338
+Pillepich, A., Sotillo-Ramos, D., Ramesh, R., et al. 2023,
+arXiv e-prints, arXiv:2303.16217,
+doi: 10.48550/arXiv.2303.16217
+Planck Collaboration, Ade, P. A. R., Aghanim, N., et al.
+2016, A&A, 594, A13, doi: 10.1051/0004-6361/201525830
+Rubin, V. C., Burstein, D., Ford, W. K., J., & Thonnard,
+N. 1985, ApJ, 289, 81, doi: 10.1086/162866
+Schaye, J., Crain, R. A., Bower, R. G., et al. 2015,
+MNRAS, 446, 521, doi: 10.1093/mnras/stu2058
+Schneider, M. D., Frenk, C. S., & Cole, S. 2012, JCAP,
+2012, 030, doi: 10.1088/1475-7516/2012/05/030
+Semczuk, M.,  Lokas, E. L., D’Onghia, E., et al. 2020,
+MNRAS, 498, 3535, doi: 10.1093/mnras/staa2609
+Shao, S., Cautun, M., Deason, A., & Frenk, C. S. 2021,
+MNRAS, 504, 6033, doi: 10.1093/mnras/staa3883
+Springel, V. 2010, MNRAS, 401, 791,
+doi: 10.1111/j.1365-2966.2009.15715.x
+Springel, V., Pakmor, R., Pillepich, A., et al. 2018,
+MNRAS, 475, 676, doi: 10.1093/mnras/stx3304
+Vera-Ciro, C. A., Sales, L. V., Helmi, A., et al. 2011,
+MNRAS, 416, 1377,
+doi: 10.1111/j.1365-2966.2011.19134.x
+Weinberger, R., Springel, V., & Pakmor, R. 2020, ApJS,
+248, 32, doi: 10.3847/1538-4365/ab908c
+Weinberger, R., Springel, V., Hernquist, L., et al. 2017,
+MNRAS, 465, 3291, doi: 10.1093/mnras/stw2944
+White, S. D. M., & Rees, M. J. 1978, MNRAS, 183, 341,
+doi: 10.1093/mnras/183.3.341

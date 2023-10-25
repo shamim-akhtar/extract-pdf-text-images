@@ -1,0 +1,88 @@
+4
+2.2. Diversity of Tilt Angles
+In Figure 1 we show the evolution of the tilt angle
+of all 198 Milky Way analogs from 6 Gyr ago to the
+present day. Each colored line represents an individual
+halo. The top panels show the tilt angle measured for
+the dark halo, and the middle panels show that of the
+stellar halo. The bottom panels show the dark halo tri-
+axiality parameter T≡1−p2/1−q2, where pandq
+are the major-to-intermediate and major-to-minor axis
+ratios. High values of this parameter ( T >0.6) indicate
+prolate halos, while low values ( T <0.3) indicate oblate
+halos. For all rows, we show a cumulative distribution
+function (CDF) on the right panel that encapsulates the
+population trend. For example, 50% of dark halos have
+tilt angles greater than 10◦, 25% of dark halos have tilt
+angles greater than 20◦, and 15% of dark halos have tilt
+angles greater than 40◦. This figure demonstrates that
+the majority of halos, for the majority of their lifetimes,
+have tilted dark halos. Furthermore, tilted dark halos
+show a broad range of shapes ranging from prolate to
+oblate.
+In Figure 2, we plot the dark halo tilt angle against the
+stellar halo tilt angle at each snapshot, for all galaxies
+in Figure 1. The relationship is strikingly linear. The
+pink region marks the posterior probability of the Milky
+Way’s stellar halo tilt angle from Han et al. (2022a),
+and the consequent marginal probability distribution of
+the dark halo is plotted in the right panel. We overplot
+a fitted exponentially modified Gaussian distribution in
+blue. From this Figure, we can infer that the tilt of the
+dark halo is most likely greather than 20◦for the Milky
+Way at the present day.
+3.AN ARCHETYPAL GALAXY
+In this Section, we present a case-study of a galaxy
+with a tilted dark halo and a warped disk. Halo 533060
+has a present-day total mass of 8 ×1011M⊙, and it ex-
+periences a 10:1 merger ∼7 Gyr ago that induces a
+strong misalignment in the dark halo and the disk. This
+halo does not undergo any other significant perturba-
+tions (e.g., mergers, fly-bys, or massive companions) af-
+terwards, allowing us to study the secular evolution of
+the tilted dark halo. In the following, we explore the
+evolution of the halo tilt angle and the response of the
+disk in Halo 533060.
+3.1. A Tilted Halo
+In Figure 3 we show the evolution of the tilt and shape
+of Halo 533060. In the top panel, we plot the tilt angle
+of the dark (stellar) halo in blue (red) circles, and in-
+dicate points with >5◦statistical uncertainties with x-
+marks. The colored shaded regions show a cubic spline
+Lookback [Gyr]020406080Tilt Angle [deg]
+Spherical
+Dark Halo
+Stellar Halo
+0 1 2 3 4 5 6
+Lookback [Gyr]0.00.20.40.60.81.0Flattening [dim. less]
+ Dark Semimajor Axis
+Dark Minor AxisStellar Semimajor Axis
+Stellar Minor AxisFigure 3. Evolution of Halo 533060 after a 10:1 merger at
+7 Gyr. In the top panel, we plot the tilt angle of the dark
+(stellar) halo in blue (red) dots with 1 σerror bars estimated
+from jack-knifing. X-marks indicate where the tilt angle un-
+certainties are larger than 10◦. The colored shaded lines
+are cubic spline interpolations of the data, sampled from
+their statistical errors. In the bottom panel, we show the
+major-to-intermediate and the major-to-minor ratios of the
+dark/stellar halo, which we refer to as the “flattening pa-
+rameters.” We grey out the regions in which both flattening
+parameters are close to 1 (i.e. roughly spherical), because
+the tilt angle is not well defined in this region. Once the
+dark (stellar) halo settles into an oblate (triaxial) shape at
+∼5 Gyr, the tilt angle steadily decreases from 50◦to 20◦at
+present day.
+interpolation of the points and the 1 σvariance in the
+interpolated curve. In the bottom panel, we plot the
+major-to-intermediate and the major-to-minor axes ra-
+tios for the dark/stellar halo, which refer to as the “flat-
+tening parameters.” We grey out the regions in which
+both parameters are close to one, indicating that the
+halo is roughly spherical and the tilt angle is not well
+defined. For Halo 533060, this region corresponds to the
+immediate aftermath of the merger. Once the merger
+is complete, the debris eventually settles and the dark
+(stellar) halo takes on an oblate (triaxial) shape that is
+∼50◦misaligned with the disk. Consistent with what
+we find in Figure 2, the stellar halo tilt angle closely
+follows that of the dark halo. In subsequent isolated

@@ -1,0 +1,80 @@
+Draft version September 18, 2023
+Typeset using L ATEXtwocolumn style in AASTeX631
+Tilted Dark Halos are Common, Long-Lived, and can Warp Galactic Disks
+Jiwon Jesse Han
+ ,1Vadim Semenov
+ ,1Charlie Conroy
+ ,1and Lars Hernquist1
+1Center for Astrophysics |Harvard & Smithsonian, 60 Garden Street, Cambridge, MA 02138, USA
+ABSTRACT
+In the Λ-CDM paradigm, the dark halo governs the gravitational potential within which a galaxy
+can form and evolve. In this Letter we show that the present-day inner ( r < 50 kpc) dark halo
+can be significantly misaligned with the stellar disk. To this end, we use the TNG50 run from the
+cosmological magneto-hydrodynamic IllustrisTNG simulation suite. Such “tilted” dark halos can arise
+from a variety of processes including major mergers, massive fly-bys, or interactions with satellite
+companions. Furthermore, we show that tilted dark halos: (1) are well traced by tilted stellar halos,
+(2) can maintain their tilt for >5 Gyr in isolated evolution, and (3) can generate warps in the
+outer disks that are stable over many Gyr. A tilted dark halo holds clues to important events in
+the formation history of a galaxy, and could help explain the abundance of warped disks in galaxy
+observations, including the Milky Way.
+1.INTRODUCTION
+In a Λ-CDM universe, dark matter collapses into ha-
+los (White & Rees 1978; Davis et al. 1985; Rubin et al.
+1985; Frenk et al. 1985) that create the gravitational
+wells within which galaxies form (Blumenthal et al.
+1984). While the spherically averaged profile of dark ha-
+los in N-body simulations is roughly universal (Navarro
+et al. 1997), it was realized early on that dark halos
+are likely aspherical in nature (Frenk et al. 1988; Du-
+binski & Carlberg 1991). On the other hand, luminous
+matter affects the shapes of dark halos, preferentially
+causing the inner halo to be more spherical (Gnedin
+et al. 2004; Kazantzidis et al. 2004; Gustafsson et al.
+2006; Duffy et al. 2010). Furthermore, hierarchically
+formed halos comprise a wealth of substructure that
+ranges from intact to completely relaxed (Bullock &
+Johnston 2005), which also affects the overall shape of
+the “smooth” dark halo (Moore et al. 2004; Cooper et al.
+2010). An interesting regime is the transition from the
+inner ( r <0.1rvirial) to outer ( r >0.5rvirial) halo, where
+the intrinsic asphericity of the dark halo competes with
+the backreaction from luminous matter, potentially en-
+hanced or erased by major accretion events.
+Connecting the properties of the dark halo to its
+directly observable counterpart—the stellar halo—is a
+valuable tool that allows observations to constrain the
+dark halo. Gaia (Gaia Collaboration et al. 2018) has
+revealed that the stellar halo of the Milky Way is domi-
+nated by one major merger event (Belokurov et al. 2018;
+Helmi et al. 2018), which may be connected to a global
+asymmetry in its distribution (Iorio & Belokurov 2019;Han et al. 2022a). Furthermore, using the H3 Survey
+(Conroy et al. 2019), Han et al. (2022a) find that the
+stellar halo from Galactocentric radius r= 5−50 kpc
+is∼25◦tilted with respect to the plane of the disk.
+An intriguing question is whether the dark halo can
+also be tilted in a similar direction on these scales (Han
+et al. 2022b). Shao et al. (2021) and Emami et al. (2021)
+find that the dark halos of Milky Way-like galaxies
+in large-volume cosmological simulations EAGLE (Schaye
+et al. 2015) and Illustris TNG50 (Pillepich et al. 2019)
+generally change orientations beyond 0 .1rvirial, which is
+around 20 −30 kpc for the Galaxy. On the contrary,
+Orkney et al. (2023) have analyzed 10 Milky Way-like
+galaxies in the zoom-in cosmological simulation AURIGA
+(Grand et al. 2017) and did not find a present-day tilt
+of the halo with respect to the disk within 50 kpc.
+In this Letter we address three questions. First, can
+a present-day tilt of the inner 50 kpc dark halo with re-
+spect to the disk exist? Second, if those features do
+exist, are they common and long-lived? Lastly, how
+do such misalignments affect the stellar disk? To an-
+swer these questions, we use the TNG50 run of the cos-
+mological magneto-hydrodynamic simulation suite Illus-
+trisTNG (Nelson et al. 2019a,b; Pillepich et al. 2019).
+TNG50 is uniquely suited for our study because it: (1)
+captures a wide range of galaxy formation scenarios
+(∼200 Milky Way-like halos), (2) incorporates reason-
+ably realistic baryonic physics, and (3) sufficiently re-
+solves the particle dynamics of the halo and the disk.
+We organize the Letter as follows. In Section 2, we
+desribe the TNG50 sample of galaxies that we use, thenarXiv:2309.07208v2  [astro-ph.GA]  15 Sep 2023

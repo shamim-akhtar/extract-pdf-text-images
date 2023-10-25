@@ -1,0 +1,97 @@
+3
+0 10 20 30 40 50 60 70 80 90
+Stellar Halo Tilt[deg]0102030405060708090Dark Halo Tilt [deg]
+Milky Way (Han 22)
+0.00 0.05
+PDF [1/deg]
+Figure 2. Relationship between the dark halo and the stel-
+lar halo tilt angles. Each point shows the dark halo and
+stellar halo tilt angle at one snapshot, spanning all of the ha-
+los and lookback times from Fig 1. The pink shaded region
+marks the measured Galactic stellar halo tilt from Han et al.
+(2022a), and the blue histogram on the right panel shows
+the marginal distribution of the Milky Way’s dark halo. The
+blue horizontal line shows the most likely value of the Galac-
+tic dark halo to be 20◦.
+cles is 4 .5×105M⊙, and that of the stellar particles
+is within a factor of 2 from the target baryonic mass
+resolution of 8 .5×104M⊙. Combined with this reso-
+lution and the cosmological volume, TNG50 captures a
+wide range of galaxy formation processes from massive
+galaxy clusters to isolated dwarf galaxies. At z= 0,
+there are ∼900,000 halos and subhalos with gravita-
+tionally bound mass greater than 108M⊙. Details of
+the simulation can be found in Nelson et al. (2019a,b);
+Pillepich et al. (2019).
+Using TNG50, Pillepich et al. (2023) identify Milky
+Way and M31-like galaxies in the simulation. For
+this study, we use their “observable-based selection,”
+which is the subset of three criteria: (1) 10 .5<
+log10(M∗/M⊙)<2×1012, (2) no massive galaxy within
+500 kpc and Mhost,200c<1013M⊙, and (3) disky galax-
+ies (based on Pillepich et al. 2019, and visual inspection).
+This selection yields 198 galaxies and their host halos.
+For each halo, we define the “tilt angle” to be a
+misalignment of the stellar disk and the inner dark
+halo, and calculate this quantity using the following
+method. We first select dark matter particles with
+r∈(10 kpc ,50 kpc). From the position and mass of
+each particle, we calculate the moment of inertia ten-
+sor. By solving for the eigenvector-eigenvalue pairs of
+the tensor, we find the three principal axes of rotation
+and their respective moments of inertia. The major axishas the minimum moment of inertia, and the minor axis
+has the maximum moment of inertia. The moments of
+inertia Ii,i∈ {a, b, c}, can be related to the “length” ri
+of the principal axes as the following:
+Ii∝r2
+j+r2
+k→r2
+i∝−Ii+Ij+Ik
+2(1)
+Using this relation, we can compute the major-to-
+intermediate and major-to-minor axes ratios as follows:
+1 :rb
+ra:rc
+ra= 1 :r
+Ia−Ib+Ic
+−Ia+Ib+Ic:r
+Ia+Ib−Ic
+−Ia+Ib+Ic
+(2)
+Some studies calculate the “reduced” moment of iner-
+tia to down-weight the outer halo particles (e.g., Allgood
+et al. 2006; Vera-Ciro et al. 2011; Schneider et al. 2012;
+Emami et al. 2021). In this study, we are limiting the
+analysis to particles with 10 kpc < r < 50 kpc, and do
+not downweight the particles. The canonical moment of
+inertia is sufficient to capture the misalignment of the
+halo and the disk, and also allows for an easier inter-
+pretation of the result. Furthermore, the tilt angle is
+insensitive to the actual values of the moments of iner-
+tia; it is only sensitive to the direction of the principal
+axes.
+Once we obtain the principal axes, we measure the
+tilt angle as the angle between the minor axis and the
+Z-axis, which is set by the total angular momentum of
+the stellar disk. There are two motivations to use the
+minor axis as opposed to the major axis. First, many
+TNG50 galaxies show an oblate inner halo (see last row
+of Fig. 1), meaning that the major and intermediate
+axes are roughly degenerate with each other. This is
+consistent with previous studies (e.g., Kazantzidis et al.
+2004; Shao et al. 2021). In this scenario, the degener-
+acy between the major/intermediate axes (and the cor-
+responding freedom of azimuthal rotation) causes their
+angle with respect to the Z-axis to be an unstable mea-
+surement. On the other hand, the minor axis is almost
+never degenerate, making its angle with the Z-axis a
+much more stable measurement. Secondly, when the
+minor axis is aligned with the Z-axis, the halo is sta-
+ble against perturbations to the gravity of the disk, and
+when the minor axis is 90◦to the Z-axis, the halo is un-
+stable. This analogy yields an intuitive interpretation
+of the tilt angle. We note that the stellar halo tends to
+be more triaxial than the dark halo in TNG50, which
+means that all three axes are nondegnerate and one can
+use either the major or minor axis to measure the tilt
+angle.

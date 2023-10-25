@@ -1,0 +1,42 @@
+2
+020406080Dark Halo Tilt [deg]
+020406080Stellar Halo Tilt [deg]
+0 1 2 3 4 5 6
+Lookback Time [Gyr]00.51-p2/1-q2prolate
+oblate
+0 25 50 75 100
+CDF [%]
+Figure 1. Evolution of the tilt angle of the dark and stellar halo from 6 Gyr ago to present day in TNG50 Milky Way analogs
+(Pillepich et al. 2023). Each line represents a single halo. The first and second row panels show the evolution of the tilt
+angle of the dark matter and stellar halo, and the third row panels show the evolution of the dark halo triaxiality parameter
+T≡1−p2/1−q2, where pandqare the major-to-intermediate and major-to-minor axis ratios. We increase the line thickness
+with time, and color each line according to its final dark halo tilt angle. On the right panel, we plot the cumulative distribution
+function (CDF) of the tilt angles at the present day, which reveals that around half of TNG50 Milky Way analogs have dark
+halo tilt angles greater than 10◦. We find a diversity of triaxiality parameters for the tilted halos, ranging from prolate ( T >0.6)
+to oblate ( T <0.3).
+outline the method to analyze their tilt angles. In Sec-
+tion 3, we identify an archetypal galaxy and closely fol-
+low the evolution of its dark matter halo, stellar halo,
+and stellar disk. Finally, in Section 4, we summarize
+the results and discuss their implications in a broader
+context.
+2.MILKY WAY ANALOGS IN TNG50
+In this Section, we describe the sample of galaxies in
+TNG50 that we use, and how we define and measure the
+tilt angles of galaxies over their formation histories. We
+then present the distribution of dark halo tilt angles in
+our sample, and relate those measurements to the stellar
+halo.2.1. Sample and Methods
+TNG50 (Pillepich et al. 2019; Nelson et al. 2019a,b) is
+a cosmological magneto-hydrodynamical simulation run
+with AREPO (Springel 2010; Weinberger et al. 2020) using
+the fiducial TNG galaxy formation model (Weinberger
+et al. 2017; Pillepich et al. 2018a) and Planck Collabo-
+ration et al. (2016) cosmological parameters. Like the
+other simulations in IllustrisTNG (Pillepich et al. 2018b;
+Springel et al. 2018; Nelson et al. 2018; Marinacci et al.
+2018; Naiman et al. 2018), TNG50 follows the evolution
+of cold dark matter (CDM), stars, gas, magnetic fields,
+and supermassive black holes from redshift z= 127 to
+z= 0. In the case of TNG50, the volume modeled
+is 51.7 Mpc3, the mass resolution of the CDM parti-

@@ -1,0 +1,63 @@
+6
+020406080Tilt Angle [deg]
+0 1 2 3 4 5 6
+Lookback Time [Gyr]02468Warp Amplitude [kpc]
+Figure 5. Correspondence between the warp amplitude and
+the dark halo tilt. On the top panel we plot the evolution
+of the dark halo tilt as in Fig 3. On the bottom panel we
+plot the amplitude of the disk warp measured at twice the
+scale radius. We grey out the same region as Fig 3 where the
+halo is roughly spherical and the tilt angle is not well defined.
+When the halo is spherical, the warp amplitude is zero. Once
+the halo settles to an oblate shape and a tilt angle of 50◦,
+the warp amplitude sharply increases over 1 Gyr. There are
+no satellite galaxies or equivalent perturbers present at this
+epoch. In subsequent evolution, the warp amplitude stays
+stable over 4 Gyr as the tilt angle of the dark halo slowly
+declines.back physics (e.g., Debattista et al. 2008; Duffy et al.
+2010). TNG50 implements a wide range of gravitational
+and baryonic physical processes including stellar feed-
+back, and reproduces several aspects of observed galax-
+ies (Pillepich et al. 2019). Thus, following our demon-
+stration of the diversity of tilted dark halos in TNG50,
+we believe that real galactic halos must also exhibit such
+diversity.
+The origin of the warped disks in galaxies including
+the Milky Way is a longstanding mystery (Kerr 1957;
+Burke 1957). Bosma (1991) find that at least half of spi-
+ral galaxies are warped, which suggests that the warping
+mechanism must be universal and long-lasting. Semczuk
+et al. (2020) have shown in TNG100 that 35% of the
+warped disks are caused by satellite encounters (half of
+which lead to a merger). These satellite-driven warps
+are transient, surviving on average about 1 Gyr. In this
+study, we have shown that a tilted dark halo can sustain
+a long-lasting warp ( >4 Gyr), and that half of the Milky
+Way analogs have tilt angles greater than 10◦. For the
+Milky Way, Han et al. (in prep.) demonstrate the same
+process in an idealized simulation. Using a tilted, triax-
+ial dark halo component based on the observed stellar
+halo—i.e., adopting a “minimal-tuning” model for the
+dark halo—they calculate the orbits of disk particles.
+Remarkably, the disk develops a stable warp within 1
+Gyr at precisely the observed amplitude, direction, and
+shape of the Galactic disk warp and flare (Grabelsky
+et al. 1987; Bosma 1991; Levine et al. 2006). Thus, the
+results from TNG50 and the isolated simulation make a
+compelling case for tilted dark halos being the primary
+driver of warped galaxies in the observed universe.
+REFERENCES
+Allgood, B., Flores, R. A., Primack, J. R., et al. 2006,
+MNRAS, 367, 1781,
+doi: 10.1111/j.1365-2966.2006.10094.x
+Bailin, J., & Steinmetz, M. 2004, ApJ, 616, 27,
+doi: 10.1086/424912
+Belokurov, V., Erkal, D., Evans, N. W., Koposov, S. E., &
+Deason, A. J. 2018, MNRAS, 478, 611,
+doi: 10.1093/mnras/sty982Blumenthal, G. R., Faber, S. M., Primack, J. R., & Rees,
+M. J. 1984, Nature, 311, 517, doi: 10.1038/311517a0
+Bosma, A. 1991, Warped and Flaring HI Disks (Cambridge
+University Press), 181
+Bullock, J. S., & Johnston, K. V. 2005, ApJ, 635, 931,
+doi: 10.1086/497422
+Burke, B. F. 1957, AJ, 62, 90, doi: 10.1086/107463

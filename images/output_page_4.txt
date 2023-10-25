@@ -1,0 +1,66 @@
+5
+Figure 4. Stellar disk of Halo 533060 plotted at four snapshots. The tilt of the dark halo settles at around 5 Gyr (see Fig 3).
+Zdenotes the vetical height of the star, and Rdenotes the cylindrical radius with positive (negative) sign where the angles are
+±90◦within the positive (negative) vertical extremum of the warp. We overplot an analytic fit to the warp (power-law in radius
+and sinusoid in azimuth) in blue, with dotted regions marking 1 σuncertainties of the fit. A strong warp persists over >4 Gyr.
+evolution, the dark halo tilt angle declines to 20◦in 5
+Gyr, likely due to a combination of processes such as
+dynamical friction, phase mixing, and torque exerted
+by the disk. Furthermore, we see the dark halo shape
+remains roughly constant, indicating that it rotates as a
+solid body. This is consistent with previous work (e.g.,
+Bailin & Steinmetz 2004; Perryman et al. 2014). At the
+present day, the tilt angle of the stellar halo matches
+that of the dark halo.
+3.2. A Warped Disk
+In Figure 4 we show the stellar disk of Halo 533060
+at four representative snapshots. We plot stars in a
+cylindrical projection, where Ris defined to be posi-
+tive (negative) where the azimuthal angle is ±90◦of
+the maximum (minimum) vertical height of the disk.
+Attlookback = 6 Gyr, there is no discernible azimuthal
+asymmtery of the disk. However, shortly after the tilted
+halo settles at tlookback = 4 Gyr, we see a warp begin-
+ning to develop in the disk. In subsequent snapshots, a
+strong warp persists in the disk. We fit the warp as a
+power-law in radius and sinusoid in azimuth, plotted in
+blue lines.
+In Figure 5, we show the time evolution of the am-
+plitude of the warp alongside the time evolution of the
+tilted dark halo. We define the warp amplitude to be
+that of the sinusoid measured at twice the scale radius of
+the disk, which grows with time (see, e.g., Frankel et al.
+2019, for evidence of such “inside-out” growth in the
+Galaxy). The warp amplitude is zero when the halo is
+roughly spherical, as shown in the grey shaded region.
+Once the dark halo settles into an oblate shape witha 50◦tilt, the warp amplitude sharply increases up to
+8 kpc at an approximate rate of 4 kpc /Gyr, then slowly
+declines to 4 kpc as the tilt angle decreases.
+In a companion study, Han et al. (in prep) use ide-
+alized simulations to show that a tilted dark halo can
+induce a warp in the galactic disk within a Gyr. Fur-
+thermore, there are no massive satellites around Halo
+533060 at the time of the onset of the warped disk. All
+of these pieces of evidence indicate that the warped disk
+of Halo 533060 is driven by its tilted dark halo.
+4.SUMMARY AND DISCUSSION
+In this Letter, we have analyzed the “tilt angle”—a
+misalignment of the inner ( r <50 kpc) dark halo and
+the stellar disk—in the Illustris TNG50 simulation. We
+find an abundance of Milky Way-like halos that are sig-
+nificantly tilted at the present day, and identify an iso-
+lated halo that allows us to study the secular evolution
+of a merger-induced tilted dark halo. We find that the
+tilt angle decreases over time, likely due to dynamical
+friction and phase mixing of the merger debris. The
+timescale of this decay is long: the tilt angle declines
+from 50◦to 20◦over 5 Gyr. Furthermore, the stellar
+halo is a good tracer of the underlying dark halo tilt
+angle over all epochs. Lastly, we find a compelling re-
+lationship between the tilted dark halo and a persistent
+warp in the galactic disk. The warp amplitude increases
+sharply after the tilt angle reaches its maximum, and
+subsequently follows the gradual decline of the tilt an-
+gle over ∼4 Gyr.
+The shape and configuration of the dark halo is pri-
+marily set by gravity, and is affected by baryonic feed-
